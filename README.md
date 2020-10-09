@@ -2,4 +2,4 @@
 
 
 
-A project while learning from freecodecamp
+A project while learning django from freecodecamp
